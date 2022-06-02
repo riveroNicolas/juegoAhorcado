@@ -1,0 +1,22 @@
+header{
+    background-color: cadetblue;
+    height: 160px ;
+    display: block;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+header img{
+    height: 120px;
+    width: auto;
+    margin-left: 40px;
+    margin-top: 20px
+}
+
+header h2{
+    display: inline-block;
+    font-size:  30px;
+    text-align: center;
+}
