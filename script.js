@@ -11,9 +11,10 @@ var errores = 9;
 
 // funciones
 function escojerPalabrasSecretas(){
-    var palabras = palabras[Math.floor(Math.random()*palabras.length)]
-    palabraSecreta = palabras
-    console.log(palabras)
-    return palabras
+    var palabra = palabras[Math.floor(Math.random()*palabras.length)]
+    palabraSecreta = palabra
+    console.log(palabra)
+    return 
+
 } escojerPalabrasSecretas()
 
