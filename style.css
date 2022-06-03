@@ -1,12 +1,13 @@
 header{
     background-color: cadetblue;
     height: 160px ;
+    width: 1200px;
     display: block;
 }
 
-body{
+/* body{
     background-color: aquamarine;
-}
+} */
 
 header img{
     height: 120px;
@@ -20,3 +21,7 @@ header h2{
     font-size:  30px;
     text-align: center;
 }
+
+/* canvas{
+    background-color: bisque;
+} */
